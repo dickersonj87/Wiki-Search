@@ -1,0 +1,27 @@
+# Web Search App
+
+This is a web application that allows users to search for information using the Wikipedia API. It accepts a search query from the user and retrieves relevant search results from Wikipedia.
+
+## Features
+
+- Search for information on any topic using the search bar.
+- Displays search results with clickable links to the corresponding Wikipedia articles.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## Installation
+
+1. Clone the repository: `git clone <repository-url>`
+2. Open the project directory in your preferred code editor.
+3. Open the `index.html` file in a web browser.
+
+## Usage
+
+1. Enter a search query in the input field.
+2. Click the "Search" button or press the Enter key to initiate the search.
+3. The search results will be displayed below the search bar.
+4. Click on the article titles to open the corresponding Wikipedia page.
